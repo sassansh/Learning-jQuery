@@ -15,3 +15,9 @@ $(document).ready(function () {
     $(".test").hide();
   });
 });
+
+$(document).ready(function () {
+  $(".clickgone").click(function () {
+    $(this).hide();
+  });
+});
