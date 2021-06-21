@@ -30,13 +30,13 @@
 
 ## Technology Stack 🛠️
 
-Dependencies defined in package.json:
-
 [jQuery](https://jquery.com/)
 
 [jQuery Tutorial by w3schools](https://www.w3schools.com/jquery/)
 
-HTML & CSS
+[HTML](https://html.spec.whatwg.org/)
+
+[CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
 ## Prerequisites 🍪
 
