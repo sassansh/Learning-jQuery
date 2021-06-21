@@ -55,7 +55,7 @@ A modern browser like Safari, Chrome, or Firefox.
 4. The live website is now up and running at:
 
    ```https
-     https://sassanshokoohi.ca/DogAPI-App/
+     https://sassanshokoohi.ca/Learning-jQuery/
    ```
 
 ## Contact 📧
