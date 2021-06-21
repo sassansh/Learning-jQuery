@@ -32,8 +32,6 @@
 
 [jQuery](https://jquery.com/)
 
-[jQuery Tutorial by w3schools](https://www.w3schools.com/jquery/)
-
 [HTML](https://html.spec.whatwg.org/)
 
 [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
@@ -52,7 +50,9 @@ A modern browser like Safari, Chrome, or Firefox.
 
 2. To run the project simply open `index.html` in your browser.
 
-3. The live website is now up and running at:
+3. Followed this [jQuery Tutorial by w3schools](https://www.w3schools.com/jquery/)
+
+4. The live website is now up and running at:
 
    ```https
      https://sassanshokoohi.ca/DogAPI-App/
