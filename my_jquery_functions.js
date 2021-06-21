@@ -21,3 +21,27 @@ $(document).ready(function () {
     $(this).hide();
   });
 });
+
+$(document).ready(function () {
+  $(".click2gone").dblclick(function () {
+    $(this).hide();
+  });
+});
+
+$(document).ready(function () {
+  $("#p1").mouseenter(function () {
+    $(this).css("background-color", "#cccccc");
+  });
+});
+
+$(document).ready(function () {
+  $("#p2").mouseleave(function () {
+    $(this).css("background-color", "#f8a622");
+  });
+});
+
+$(document).ready(function () {
+  $("#showhide").click(function () {
+    $(".showhidetext").toggle(1000);
+  });
+});
