@@ -45,3 +45,17 @@ $(document).ready(function () {
     $(".showhidetext").toggle(1000);
   });
 });
+
+$(document).ready(function () {
+  $("#fadeto").click(function () {
+    $("#divfade1").fadeTo("slow", 0.15);
+    $("#divfade2").fadeTo("slow", 0.4);
+    $("#divfade3").fadeTo("slow", 0.7);
+  });
+});
+
+$(document).ready(function () {
+  $("#flip").click(function () {
+    $("#panel").slideToggle("slow");
+  });
+});
